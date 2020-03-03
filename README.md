@@ -4,6 +4,10 @@ Sistema de cadastro de amigos desenvolvido durante a disciplina de WEB 1, com si
 Para iniciar o servidor, digite no terminal:
 php -S localhost:8000(ou outra porta desejada)
 
+link na web
+
+http://sistemaedu.000webhostapp.com/
+
                                                                           Miguel Gabriel B. Dos Santos
                                                                           14/02/2020
                                                                           Em memoria de Miguel Israel
